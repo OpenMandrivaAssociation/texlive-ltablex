@@ -5,8 +5,8 @@
 # catalog-license lppl
 # catalog-version 1.0
 Name:		texlive-ltablex
-Version:	1.0
-Release:	9
+Version:	1.1
+Release:	1
 Summary:	Table package extensions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ltablex

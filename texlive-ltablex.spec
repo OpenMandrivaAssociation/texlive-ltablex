@@ -1,9 +1,3 @@
-# revision 29903
-# category Package
-# catalog-ctan /macros/latex/contrib/ltablex
-# catalog-date 2013-04-12 10:31:24 +0200
-# catalog-license lppl
-# catalog-version 1.0
 Name:		texlive-ltablex
 Version:	1.1
 Release:	1
@@ -33,10 +27,8 @@ table) with those of the longtable package (multi-page tables).
 
 #-----------------------------------------------------------------------
 %files
-%{_texmfdistdir}/tex/latex/ltablex/ltablex.sty
-%doc %{_texmfdistdir}/doc/latex/ltablex/README
-%doc %{_texmfdistdir}/doc/latex/ltablex/ltablex.pdf
-%doc %{_texmfdistdir}/doc/latex/ltablex/ltablex.tex
+%{_texmfdistdir}/tex/latex/ltablex
+%doc %{_texmfdistdir}/doc/latex/ltablex
 
 #-----------------------------------------------------------------------
 %prep

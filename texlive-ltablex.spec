@@ -1,6 +1,6 @@
 Name:		texlive-ltablex
 Version:	1.1
-Release:	1
+Release:	2
 Summary:	Table package extensions
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ltablex

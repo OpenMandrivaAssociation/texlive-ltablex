@@ -3,7 +3,7 @@ Version:	34923
 Release:	2
 Summary:	Table package extensions
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ltablex
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ltablex
 License:	LPPL
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ltablex.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ltablex.doc.r%{version}.tar.xz
